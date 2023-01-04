@@ -7,5 +7,6 @@ create table animals(
     escape_attempts integer,
     neutered boolean,
     weight_kg decimal,
-    species text
 );
+
+ALTER animals ADD species text
