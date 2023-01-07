@@ -1,13 +1,7 @@
 
 
 
-## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 <a name="readme-top"></a>
 
@@ -75,18 +69,18 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Multiple Tables]**
+- **[join tables]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Getting Started
 
+This repository includes files with plain SQL that can be used to recreate a database:
 
-> Add a link to your deployed project.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 
 
